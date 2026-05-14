@@ -1,0 +1,226 @@
+# setopt-style sites in .cpax: 112 total, 56 distinct codes
+
+## option 1 = ?  (4 site(s))
+  0x180e8450b  push-reg rdi
+  0x180e9d4ef  push-imm 0x1ffce4fb
+  0x180e9f363  push-reg rdi
+  0x180ead1be  push-reg rdi
+
+## option 4 = ?  (21 site(s))
+  0x180e4bc27  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4c967  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4c9ed  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4d825  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4d8bb  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4de8b  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4e4a9  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4e6c3  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4ed31  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4ee11  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4f076  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4f1e7  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4f857  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4fc17  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4fe11  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e4fea8  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e50393  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e504b7  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e510d7  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e512d3  push-mem qword ptr ds:[rax + 0xff0]
+  0x180e53297  push-mem qword ptr ds:[rax + 0xff0]
+
+## option 7 = ?  (1 site(s))
+  0x180ebf0ee  push-reg rsi
+
+## option 9 = ?  (1 site(s))
+  0x180ed247a  push-mem qword ptr [rsi]
+
+## option 10 = ?  (1 site(s))
+  0x180ec56ae  push-reg r15
+
+## option 12 = ?  (1 site(s))
+  0x180ecf11b  push-mem qword ptr [rdx]
+
+## option 24 = ?  (22 site(s))
+  0x180e87dac  push-reg r15
+  0x180e8dbc0  push-reg rbx
+  0x180e9ee45  push-imm 0x1ffd0e7b
+  0x180e9eead  push-imm 0x5ffcd06d
+  0x180ea3629  push-reg r9
+  0x180ea3820  push-reg rcx
+  0x180eaa0df  push-reg rsi
+  0x180eaa226  push-reg r9
+  0x180eaa4ed  push-reg r8
+  0x180eb06fd  push-reg rbx
+  0x180eb381f  push-reg r10
+  0x180eb5349  push-reg rsi
+  0x180eb64f6  push-imm 0x502de9d1
+  0x180eb67bd  push-reg rcx
+  0x180eb87bf  push-reg rbx
+  0x180eba931  push-reg r11
+  0x180eba9d5  push-imm 0x416cf511
+  0x180ebf7a1  push-reg rsi
+  0x180ec1bd8  push-reg r11
+  0x180ec1e2f  push-reg r10
+  0x180ec3ffd  push-reg r15
+  0x180ec53f1  push-reg r9
+
+## option 25 = ?  (2 site(s))
+  0x180ecae4e  push-mem qword ptr [rdx]
+  0x180edabea  push-reg rsp
+
+## option 32 = ?  (5 site(s))
+  0x180e49da9  push-imm 0x7bc53888
+  0x180e813f3  push-imm 0x6fce6eda
+  0x180e8b8ae  push-reg rdi
+  0x180e8e1ea  push-reg rbx
+  0x180ebe3af  push-reg rax
+
+## option 41 = ?  (1 site(s))
+  0x180e91322  push-mem qword ptr ds:[rbx + 8]
+
+## option 48 = ?  (1 site(s))
+  0x180e8e9c6  push-imm 0x54a31f8
+
+## option 52 = CURLOPT_KEEP_SENDING_ON_ERROR  (1 site(s))
+  0x180e8e632  push-mem qword ptr ds:[rbx + 8]
+
+## option 55 = ?  (1 site(s))
+  0x180ee2c5c  push-mem qword ptr [rax]
+
+## option 56 = ?  (1 site(s))
+  0x180ed9388  push-reg rsp
+
+## option 72 = ?  (1 site(s))
+  0x180ed1cd9  push-mem qword ptr [rdx]
+
+## option 76 = ?  (1 site(s))
+  0x180eda22d  push-imm 0x12fffb
+
+## option 80 = ?  (3 site(s))
+  0x180ea639b  push-reg rbx
+  0x180eabf41  push-reg rbx
+  0x180eaf5c7  push-reg rbx
+
+## option 82 = ?  (1 site(s))
+  0x180eb8d73  push-reg r15
+
+## option 86 = ?  (3 site(s))
+  0x180ed1bfa  push-reg rsi
+  0x180eeaced  push-reg rdx
+  0x180eec599  push-reg rax
+
+## option 94 = ?  (1 site(s))
+  0x180ee45ba  push-mem qword ptr [rcx]
+
+## option 95 = ?  (1 site(s))
+  0x180eee01b  push-mem qword ptr [rdx]
+
+## option 96 = ?  (1 site(s))
+  0x180ec8078  push-mem qword ptr [rax]
+
+## option 97 = ?  (2 site(s))
+  0x180ed753d  push-mem qword ptr [rcx]
+  0x180eead3b  push-imm 0x58288a9e
+
+## option 98 = ?  (1 site(s))
+  0x180e810f7  push-imm 0x32596828
+
+## option 100 = ?  (1 site(s))
+  0x180e411d5  push-imm 0xaeefd3a
+
+## option 101 = ?  (1 site(s))
+  0x180ee7659  push-reg rsi
+
+## option 112 = ?  (1 site(s))
+  0x180ed74d9  push-mem qword ptr [rax]
+
+## option 120 = ?  (2 site(s))
+  0x180e91b56  push-imm 0x6d206879
+  0x180edf83c  push-imm 0x6d
+
+## option 128 = ?  (1 site(s))
+  0x180e95c35  push-imm 0x2b452c0b
+
+## option 150 = ?  (1 site(s))
+  0x180edd5dc  push-reg rbp
+
+## option 168 = ?  (2 site(s))
+  0x180edf6e9  push-reg rax
+  0x180eef13f  push-mem qword ptr [rax]
+
+## option 173 = ?  (1 site(s))
+  0x180ed1efd  push-imm -3
+
+## option 177 = ?  (1 site(s))
+  0x180ee3c5b  push-mem qword ptr [rax]
+
+## option 181 = ?  (1 site(s))
+  0x180ede77d  push-mem qword ptr [rax]
+
+## option 186 = ?  (1 site(s))
+  0x180edb6de  push-mem qword ptr [rax]
+
+## option 188 = ?  (1 site(s))
+  0x180ebc463  push-imm 0x7ec73e09
+
+## option 190 = ?  (1 site(s))
+  0x180ed2c39  push-reg rdi
+
+## option 207 = ?  (1 site(s))
+  0x180ee077b  push-mem qword ptr [rdx]
+
+## option 208 = ?  (1 site(s))
+  0x180eca85f  push-mem qword ptr [rax]
+
+## option 210 = ?  (1 site(s))
+  0x180e74a0a  push-mem qword ptr [rsp]
+
+## option 215 = ?  (1 site(s))
+  0x180ecb7db  push-reg rcx
+
+## option 221 = ?  (1 site(s))
+  0x180ed070a  push-reg rcx
+
+## option 224 = ?  (1 site(s))
+  0x180eebc9f  push-mem qword ptr [rax]
+
+## option 234 = ?  (1 site(s))
+  0x180ed714b  push-reg rsp
+
+## option 235 = ?  (1 site(s))
+  0x180eef539  push-reg rdi
+
+## option 248 = ?  (1 site(s))
+  0x180e95198  push-reg r12
+
+## option 253 = ?  (1 site(s))
+  0x180ee7cf1  push-mem qword ptr [rcx]
+
+## option 254 = ?  (1 site(s))
+  0x180ee7a61  push-mem qword ptr [rax]
+
+## option 256 = ?  (1 site(s))
+  0x180e8447b  push-imm 0x5915f862
+
+## option 305 = ?  (1 site(s))
+  0x180ebed79  push-imm 0x13869cfc
+
+## option 307 = ?  (1 site(s))
+  0x180e99fcf  push-mem qword ptr ds:[rbx + 8]
+
+## option 10002 = CURLOPT_URL  (1 site(s))
+  0x180e99fed  push-mem qword ptr ds:[rbx + 8]
+
+## option 10004 = CURLOPT_PROXY  (1 site(s))
+  0x180e90a24  push-mem qword ptr ds:[rbx + 8]
+
+## option 10006 = CURLOPT_PROXYUSERPWD  (1 site(s))
+  0x180e9443d  push-mem qword ptr ds:[rbx + 8]
+
+## option 10018 = ?  (1 site(s))
+  0x180e9c285  push-mem qword ptr ds:[rbx + 8]
+
+## option 20094 = ?  (1 site(s))
+  0x180e97570  push-mem qword ptr ds:[rbx + 8]
+

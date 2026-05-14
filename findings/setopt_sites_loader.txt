@@ -1,0 +1,168 @@
+# setopt-style sites in .cpax: 74 total, 46 distinct codes
+
+## option 1 = ?  (1 site(s))
+  0x140624b63  push-mem qword ptr ds:[r12]
+
+## option 3 = ?  (1 site(s))
+  0x14063bb78  push-mem qword ptr ds:[r14]
+
+## option 10 = ?  (1 site(s))
+  0x140666810  push-reg rax
+
+## option 15 = ?  (4 site(s))
+  0x140637990  push-reg r13
+  0x14063a5ce  push-reg r13
+  0x14063bc8a  push-imm 0x239bf57b
+  0x14063c006  push-reg r9
+
+## option 16 = ?  (1 site(s))
+  0x14067ba06  push-reg rax
+
+## option 18 = ?  (1 site(s))
+  0x14066bc35  push-reg rsp
+
+## option 20 = ?  (1 site(s))
+  0x140674383  push-reg r10
+
+## option 22 = ?  (1 site(s))
+  0x14066a995  push-mem qword ptr [rcx]
+
+## option 24 = ?  (13 site(s))
+  0x140641384  push-reg r9
+  0x140642245  push-reg r10
+  0x1406432f4  push-reg rbx
+  0x140645c31  push-reg r15
+  0x140646266  push-reg r9
+  0x1406467e4  push-reg r8
+  0x14064c079  push-imm 0x753a6866
+  0x14064ff5d  push-reg r9
+  0x140650381  push-reg rcx
+  0x14065070d  push-reg r13
+  0x140650b04  push-reg r14
+  0x140651eba  push-reg rax
+  0x140668027  push-mem qword ptr [rcx]
+
+## option 32 = ?  (3 site(s))
+  0x140602a5a  push-imm 0x7d0af81
+  0x14062758e  push-reg r12
+  0x14062bede  push-reg rdx
+
+## option 48 = ?  (1 site(s))
+  0x1406589e4  push-mem qword ptr [rcx]
+
+## option 50 = ?  (1 site(s))
+  0x140665654  push-imm -0x3e7a780d
+
+## option 57 = ?  (1 site(s))
+  0x14067d6f0  push-imm 0x6f
+
+## option 59 = ?  (1 site(s))
+  0x1405de473  push-reg r12
+
+## option 71 = ?  (1 site(s))
+  0x14067d7e0  push-mem qword ptr [rcx]
+
+## option 85 = ?  (1 site(s))
+  0x140661ee5  push-imm 0x20fffc74
+
+## option 96 = ?  (8 site(s))
+  0x140607d02  push-reg r15
+  0x1406181e3  push-reg rax
+  0x14061aadd  push-reg rcx
+  0x1406221b8  push-imm 0x10ec1e34
+  0x140630054  push-reg rsi
+  0x14063980d  push-imm 0x65d2c840
+  0x14063f645  push-reg rax
+  0x140659a34  push-mem qword ptr [rax]
+
+## option 98 = ?  (1 site(s))
+  0x140667e31  push-reg rcx
+
+## option 100 = ?  (1 site(s))
+  0x1405db2fa  push-reg r11
+
+## option 106 = ?  (1 site(s))
+  0x140675781  push-reg rdi
+
+## option 121 = ?  (1 site(s))
+  0x140678111  push-reg rdi
+
+## option 127 = ?  (2 site(s))
+  0x140616e1a  push-reg r11
+  0x14066cf40  push-mem qword ptr [rdx]
+
+## option 128 = ?  (1 site(s))
+  0x14062132a  push-reg rsi
+
+## option 129 = ?  (1 site(s))
+  0x1406610f0  push-reg rsp
+
+## option 130 = ?  (1 site(s))
+  0x14065f392  push-reg rsi
+
+## option 144 = ?  (1 site(s))
+  0x140678122  push-mem qword ptr [rdx]
+
+## option 149 = ?  (1 site(s))
+  0x140659d63  push-mem qword ptr [rax]
+
+## option 154 = ?  (1 site(s))
+  0x140678146  push-mem qword ptr [rdx]
+
+## option 163 = ?  (1 site(s))
+  0x140673202  push-mem qword ptr [rax]
+
+## option 173 = ?  (1 site(s))
+  0x140643ef1  push-reg rsi
+
+## option 175 = ?  (1 site(s))
+  0x1405ed02d  push-reg r8
+
+## option 176 = ?  (1 site(s))
+  0x1405e1d72  push-reg rsi
+
+## option 182 = ?  (1 site(s))
+  0x14066f644  push-reg rcx
+
+## option 192 = ?  (1 site(s))
+  0x140659927  push-reg rbp
+
+## option 198 = ?  (1 site(s))
+  0x140664df5  push-reg rax
+
+## option 210 = ?  (1 site(s))
+  0x140669845  push-imm 0xd
+
+## option 220 = ?  (1 site(s))
+  0x14066b316  push-mem qword ptr [rax]
+
+## option 228 = ?  (1 site(s))
+  0x1406687f4  push-imm 0x31fffc10
+
+## option 234 = ?  (1 site(s))
+  0x140673b16  push-mem qword ptr [rax]
+
+## option 237 = ?  (1 site(s))
+  0x1405f2592  push-reg rcx
+
+## option 244 = ?  (1 site(s))
+  0x1405da280  push-reg rax
+
+## option 249 = ?  (1 site(s))
+  0x14061f29b  push-imm 0x75054fd4
+
+## option 250 = ?  (1 site(s))
+  0x1406731d9  push-mem qword ptr [rcx]
+
+## option 252 = ?  (1 site(s))
+  0x140661799  push-mem qword ptr [rcx]
+
+## option 255 = ?  (4 site(s))
+  0x1405f4afd  push-reg r10
+  0x1405f7aa3  push-reg rcx
+  0x14061ca74  push-reg rbx
+  0x14065bbf8  push-mem qword ptr [rdx]
+
+## option 10099 = ?  (1 site(s))
+  0x1406345aa  push-reg r12
+

@@ -1,0 +1,17 @@
+# Loader .text→.cpax thunk resolution
+# caller in .text loads target into reg, jumps through cpax, cpax rets back to target
+
+  caller 0x1402e4b8c  cpax 0x1405ce430  via r12    →  UNRESOLVED  (fn=5371743104)
+  caller 0x1402e4bc3  cpax 0x1405ce268  via rcx    →  UNRESOLVED  (fn=5371743152)
+  caller 0x1402e4cf0  cpax 0x1405ce308  via r12    →  UNRESOLVED  (fn=5371743424)
+  caller 0x1402e5de6  cpax 0x1405cef58  via ?      →  UNRESOLVED  (fn=None)
+  caller 0x1402e6b73  cpax 0x1405cedc0  via ?      →  UNRESOLVED  (fn=5371751216)
+  caller 0x1402ece90  cpax 0x1405cef48  via ?      →  UNRESOLVED  (fn=None)
+  caller 0x1402f6609  cpax 0x1405ce278  via ?      →  UNRESOLVED  (fn=5371815248)
+  caller 0x1402f6b20  cpax 0x1405cef50  via ?      →  UNRESOLVED  (fn=5371815248)
+  caller 0x1402f8822  cpax 0x1405ce600  via r14    →  UNRESOLVED  (fn=5371824096)
+  caller 0x1402f8c05  cpax 0x1405ce588  via ?      →  UNRESOLVED  (fn=5371824096)
+  caller 0x1402f8ce2  cpax 0x1405ce568  via rbx    →  UNRESOLVED  (fn=5371825328)
+  caller 0x1402f9cd3  cpax 0x1405ce2a0  via rcx    →  UNRESOLVED  (fn=5371829120)
+  caller 0x1402fc766  cpax 0x1405ce298  via ?      →  UNRESOLVED  (fn=None)
+  caller 0x1402fc953  cpax 0x1405ce7e0  via ?      →  UNRESOLVED  (fn=None)

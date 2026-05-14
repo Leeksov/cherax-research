@@ -1,0 +1,49 @@
+# Binaries — NEVER commit. Distribute via the original source.
+*.exe
+*.dll
+*.bin
+*.pdb
+
+# IDA databases
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets / private captures — NEVER commit
+*.cred
+*.token
+mitm-*
+flows.*
+screenshots/
+
+# Local tool outputs (regenerable via tools/) — opt-in commit only
+# Comment out if you want to commit a snapshot of the findings.
+# tools/strings_*.txt
+# tools/setopt_sites_*.txt
+# tools/cpax_entries_*.txt
+
+# Spoofer generated config (per-target-HWID, not source-of-truth)
+tools/spoofer/spoof_config.h
+
+# Driver / VS build artifacts
+*.sys
+*.cer
+x64/
+Debug/
+Release/

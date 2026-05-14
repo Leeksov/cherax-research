@@ -1,0 +1,12 @@
+# .text→.cpax edges: 4, unique entry points: 4
+
+  0x1800c3a96  jmp  0x180e4bfa8
+  0x180153cfd  jmp  0x180e90108
+  0x180252b8d  call 0x180e3e6d8
+  0x18027c643  jmp  0x180e9cf08
+
+# unique entries:
+  0x180e3e6d8
+  0x180e4bfa8
+  0x180e90108
+  0x180e9cf08
